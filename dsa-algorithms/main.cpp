@@ -8,6 +8,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 *******************************************************************************/
 #include <iostream>
 #include <algorithm>
+#include <vector>
 
 // Binary Search : Algo 1. 
 // Lower/Upper Bound for value 3 in {1,1,1,3,3,3}, Lower bound index 3, upper bound = index (5+1) = 6  
